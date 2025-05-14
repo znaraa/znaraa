@@ -10,12 +10,14 @@
 - 💡 Experienced Product Developer with 4 years at a leading telecom operator in Mongolia 
 - 🌱 Studying JLPT N1 + Full-Stack Developer  
 - 🎓 Business degree 
-- 🤖 Interests: Web design, UI&UX
+- 🤖 Interest in Web design, UI&UX
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3" />
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
