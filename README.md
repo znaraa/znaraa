@@ -46,11 +46,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Open to Collaboration
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/znaraa/znaraa/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+Got an idea? Building something fun or useful?  
+I'd love to hear about it and maybe even jump in — let’s build together! 😄
 
 ---
 
