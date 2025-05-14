@@ -1,6 +1,6 @@
 <h1 align="center">Nara here 🔥!</h1>
 
-<p align="center">I'm Nara</p>
+<p align="center">Hey there 👋 I'm Nara. I enjoy turning ideas into real, user-friendly products.</p>
 
 ---
 
