@@ -59,7 +59,7 @@ I'd love to hear about it and maybe even jump in — let’s build together! �
   <a href="https://remodo.cc"><img src="https://img.shields.io/badge/Website-remodo.cc-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:narmandakh.zagdragchaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+☕️ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/znaraa)
 ---
 
 
